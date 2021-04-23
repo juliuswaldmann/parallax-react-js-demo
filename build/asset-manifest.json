@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75ab33e9.chunk.css",
+    "main.js": "/static/js/main.a09e3c6d.chunk.js",
+    "main.js.map": "/static/js/main.a09e3c6d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c72438ee.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c72438ee.js.map",
+    "static/js/2.d083d62a.chunk.js": "/static/js/2.d083d62a.chunk.js",
+    "static/js/2.d083d62a.chunk.js.map": "/static/js/2.d083d62a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.75ab33e9.chunk.css.map": "/static/css/main.75ab33e9.chunk.css.map",
+    "static/js/2.d083d62a.chunk.js.LICENSE.txt": "/static/js/2.d083d62a.chunk.js.LICENSE.txt",
+    "static/media/Planet1.d8331be4.png": "/static/media/Planet1.d8331be4.png",
+    "static/media/Planet2.23d3a911.png": "/static/media/Planet2.23d3a911.png",
+    "static/media/Planet3.64de4cb5.png": "/static/media/Planet3.64de4cb5.png",
+    "static/media/Planet4.42751a8e.png": "/static/media/Planet4.42751a8e.png",
+    "static/media/Planet5.8e201d9d.png": "/static/media/Planet5.8e201d9d.png",
+    "static/media/Planet6.1a88adf1.png": "/static/media/Planet6.1a88adf1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c72438ee.js",
+    "static/js/2.d083d62a.chunk.js",
+    "static/css/main.75ab33e9.chunk.css",
+    "static/js/main.a09e3c6d.chunk.js"
+  ]
+}
